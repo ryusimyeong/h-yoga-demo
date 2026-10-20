@@ -1,0 +1,8 @@
+Noto Sans KR · Google Fonts / Noto project
+Source: https://github.com/google/fonts/tree/main/ofl/notosanskr
+Downloaded: 2026-10-20
+Source font: NotoSansKR[wght].ttf
+License: SIL Open Font License 1.1 (see OFL.txt)
+Static instance generated with FontTools 4.67.0:
+fonttools varLib.instancer 'NotoSansKR[wght].ttf' wght=400 --output NotoSansKR-Regular.ttf
+Used only for local demo PDF export. PDF embeds subsets.
